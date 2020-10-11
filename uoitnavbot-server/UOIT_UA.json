@@ -1,0 +1,1701 @@
+{
+   "features": [
+      {
+         "type": "Feature",
+         "properties": {
+            "highway": "footway",
+            "id": "way/-117696"
+         },
+         "geometry": {
+            "coordinates": [[-78.896966, 43.944562], [-78.897126, 43.944652]],
+            "type": "LineString"
+         },
+         "id": "0258da4792c6b343f4b06acc4e5fd44a"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "cuisine": "burrito",
+            "ref": "Smoke's Burritorie",
+            "user": "AlexK96",
+            "smoking": "no",
+            "uid": "5133434",
+            "drive_through": "no",
+            "changeset": "45198428",
+            "delivery": "no",
+            "timestamp": "2017-01-15T19:58:21Z",
+            "version": "2",
+            "amenity": "fast_food",
+            "id": "node/2765883958"
+         },
+         "geometry": {
+            "coordinates": [-78.897168, 43.944494],
+            "type": "Point"
+         },
+         "id": "06cd1168ab2e86a1d4423e94383e6b12"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "DannyMcD",
+            "highway": "footway",
+            "uid": "5789626",
+            "changeset": "61209293",
+            "timestamp": "2018-07-30T21:43:42Z",
+            "version": "5",
+            "id": "way/428077719"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897126, 43.944652],
+               [-78.896953, 43.944691],
+               [-78.896584, 43.944775],
+               [-78.896238, 43.944858],
+               [-78.896118, 43.944883],
+               [-78.895946, 43.944918]
+            ],
+            "type": "LineString"
+         },
+         "id": "073e38040bddcf9efe7d9c6d1e19576f"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:33:01Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "access": "permissive",
+            "highway": "footway",
+            "id": "way/428077686"
+         },
+         "geometry": {
+            "coordinates": [[-78.895669, 43.944385], [-78.895685, 43.944425]],
+            "type": "LineString"
+         },
+         "id": "0d9f7a871adeb0874dbdc9c07f1b12c6"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "area:highway": "path",
+            "leisure": "park",
+            "ref": "Polonsky Commons",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:06Z",
+            "version": "3",
+            "id": "way/227402746"
+         },
+         "geometry": {
+            "coordinates": [
+               [
+                  [-78.897126, 43.944652],
+                  [-78.896953, 43.944691],
+                  [-78.896584, 43.944775],
+                  [-78.896238, 43.944858],
+                  [-78.897126, 43.944652]
+               ]
+            ],
+            "type": "Polygon"
+         },
+         "id": "0ea31cfc151a297c5a3d4111ff0592d9"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.895848, 43.944573], [-78.895871, 43.944567]],
+            "type": "LineString"
+         },
+         "id": "0f4f2ea24b45b641708e04fb9d06d7bb"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "WASHROOM",
+            "id": "WASHROOM"
+         },
+         "geometry": {
+            "coordinates": [-78.896194, 43.944644],
+            "type": "Point"
+         },
+         "id": "0f8665b4a30564a4c1bb0b588845f878"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "yes",
+            "id": "node/-116497"
+         },
+         "geometry": {
+            "coordinates": [-78.896966, 43.944562],
+            "type": "Point"
+         },
+         "id": "1177a5b8ca02a8c36133476d77ba873c"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896325, 43.944547],
+               [-78.896391, 43.944584],
+               [-78.896499, 43.944592],
+               [-78.896529, 43.944658],
+               [-78.896584, 43.944775]
+            ],
+            "type": "LineString"
+         },
+         "id": "1346b71d0d091cbfd053bb33739ec6ac"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.895871, 43.944567],
+               [-78.895892, 43.944562],
+               [-78.895976, 43.944544],
+               [-78.896088, 43.944519],
+               [-78.896097, 43.944541],
+               [-78.896119, 43.944592],
+               [-78.89613, 43.944639],
+               [-78.896128, 43.944677],
+               [-78.896146, 43.944718],
+               [-78.896205, 43.944706],
+               [-78.896221, 43.944729],
+               [-78.896238, 43.944858],
+               [-78.896118, 43.944883]
+            ],
+            "type": "LineString"
+         },
+         "id": "14c3705004bf49a8c0f856e5436f4ebe"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897173, 43.944438],
+               [-78.897184, 43.944467],
+               [-78.897168, 43.944494],
+               [-78.897088, 43.944486],
+               [-78.897043, 43.944469]
+            ],
+            "type": "LineString"
+         },
+         "id": "1512f132982cc73eb01ff58af89a1d7c"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "footway": "sidewalk",
+            "user": "AlexK96",
+            "surface": "concrete",
+            "highway": "footway",
+            "uid": "5133434",
+            "changeset": "45222127",
+            "timestamp": "2017-01-16T18:17:51Z",
+            "version": "1",
+            "id": "way/466443706"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.895632, 43.944839],
+               [-78.895529, 43.944755],
+               [-78.895467, 43.944629],
+               [-78.895489, 43.944554],
+               [-78.895588, 43.944508],
+               [-78.895671, 43.944467],
+               [-78.896531, 43.944268]
+            ],
+            "type": "LineString"
+         },
+         "id": "190326e5f234470d450b36ffe5f8ce83"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "footway": "sidewalk",
+            "user": "AlexK96",
+            "surface": "concrete",
+            "highway": "footway",
+            "uid": "5133434",
+            "changeset": "45222281",
+            "timestamp": "2017-01-16T18:23:39Z",
+            "lit": "yes",
+            "version": "1",
+            "id": "way/466445605"
+         },
+         "geometry": {
+            "coordinates": [[-78.895518, 43.944863], [-78.895529, 43.944755]],
+            "type": "LineString"
+         },
+         "id": "19d1c33da7ef40b8be3bcc49d99c497e"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896133, 43.94459], [-78.896119, 43.944592]],
+            "type": "LineString"
+         },
+         "id": "202b34b9696f6db5801761768885233a"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "highway": "footway",
+            "id": "way/-117700"
+         },
+         "geometry": {
+            "coordinates": [[-78.896899, 43.944575], [-78.896953, 43.944691]],
+            "type": "LineString"
+         },
+         "id": "219bc85554596196a207afb1a321c94d"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896078, 43.944492], [-78.896081, 43.944507]],
+            "type": "LineString"
+         },
+         "id": "21b80c8f8fac37773d52e428e5dca711"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896875, 43.944373],
+               [-78.896805, 43.944524],
+               [-78.896826, 43.944551],
+               [-78.896842, 43.944572],
+               [-78.896892, 43.944562],
+               [-78.896899, 43.944575]
+            ],
+            "type": "LineString"
+         },
+         "id": "232c82a9bbfb512a9e7a99dc429591c2"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "highway": "footway",
+            "id": "way/-117147"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897301, 43.944459],
+               [-78.897237, 43.944454],
+               [-78.897233, 43.944447],
+               [-78.897222, 43.944425],
+               [-78.897204, 43.944429]
+            ],
+            "type": "LineString"
+         },
+         "id": "2384227370ee34c49be1806eebc5b167"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2015-07-27T01:35:14Z",
+            "version": "1",
+            "changeset": "32900009",
+            "user": "andrewpmk",
+            "uid": "1679",
+            "note": "steepness of bump is high enough to damage low undercarriages",
+            "traffic_calming": "hump",
+            "id": "node/3667916457"
+         },
+         "geometry": {
+            "coordinates": [-78.895458, 43.944476],
+            "type": "Point"
+         },
+         "id": "2691137e7d3fe6d580d3a36119a8cc20"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896895, 43.944353], [-78.896875, 43.944373]],
+            "type": "LineString"
+         },
+         "id": "273724e58ee27c36e8d437e4f86c6059"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897173, 43.944438],
+               [-78.897043, 43.944469],
+               [-78.896926, 43.944496],
+               [-78.89686, 43.944499],
+               [-78.896805, 43.944524],
+               [-78.896649, 43.944559],
+               [-78.896499, 43.944592],
+               [-78.896336, 43.944627],
+               [-78.8962, 43.94466],
+               [-78.896128, 43.944677],
+               [-78.896093, 43.944685],
+               [-78.895934, 43.944721]
+            ],
+            "type": "LineString"
+         },
+         "id": "30e6e8fdc01267c4db2f1df34b4ca46c"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2018-07-30T21:43:40Z",
+            "version": "2",
+            "changeset": "61209293",
+            "user": "DannyMcD",
+            "uid": "5789626",
+            "entrance": "yes",
+            "id": "node/4272234829"
+         },
+         "geometry": {
+            "coordinates": [-78.896529, 43.944658],
+            "type": "Point"
+         },
+         "id": "3110ea37668a52c030b1a1b37e92fbc0"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.895969, 43.94453], [-78.895976, 43.944544]],
+            "type": "LineString"
+         },
+         "id": "3c30ba140ec9ce8160fdad663cb203d2"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:32:59Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "entrance": "yes",
+            "id": "node/4272233572"
+         },
+         "geometry": {
+            "coordinates": [-78.897343, 43.944337],
+            "type": "Point"
+         },
+         "id": "3c603a4cc208867245231a66f6ecfd94"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896875, 43.944373],
+               [-78.896806, 43.944369],
+               [-78.896752, 43.944372],
+               [-78.896736, 43.94433],
+               [-78.896732, 43.944295]
+            ],
+            "type": "LineString"
+         },
+         "id": "41192ff1602cfdd6ffacc65c13d451f0"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "highway": "footway",
+            "id": "way/-117712"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896966, 43.944562],
+               [-78.896932, 43.944553],
+               [-78.896892, 43.944562]
+            ],
+            "type": "LineString"
+         },
+         "id": "41c04a3b03ee3234bb9989fcb7de9b29"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "version": "1",
+            "id": "way/428077712",
+            "horse": "no",
+            "bicycle": "no"
+         },
+         "geometry": {
+            "coordinates": [[-78.896805, 43.944524], [-78.896753, 43.944397]],
+            "type": "LineString"
+         },
+         "id": "466a85a26d31615d8b245c7c2e1f3a14"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:04Z",
+            "version": "1",
+            "id": "way/428077720"
+         },
+         "geometry": {
+            "coordinates": [[-78.895874, 43.944806], [-78.895946, 43.944918]],
+            "type": "LineString"
+         },
+         "id": "47895378176075ffb0dd597b05199b48"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "version": "1",
+            "id": "way/428077712",
+            "horse": "no",
+            "bicycle": "no"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.895671, 43.944467],
+               [-78.895754, 43.944475],
+               [-78.895813, 43.944481]
+            ],
+            "type": "LineString"
+         },
+         "id": "4a51c85bf1ae17ef1a430c225afe4ef0"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:32:59Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "id": "node/4272234791"
+         },
+         "geometry": {
+            "coordinates": [-78.896212, 43.944143],
+            "type": "Point"
+         },
+         "id": "5647292803dbd9321294acca3eb401e8"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896926, 43.944496], [-78.896753, 43.944397]],
+            "type": "LineString"
+         },
+         "id": "569f529975a118267724d9f207213794"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896773, 43.944262],
+               [-78.896727, 43.944267],
+               [-78.896657, 43.944281],
+               [-78.896531, 43.944268],
+               [-78.896518, 43.944237]
+            ],
+            "type": "LineString"
+         },
+         "id": "684ad41a32e5d69481ac219e741ec91d"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.89674, 43.944416], [-78.896753, 43.944397]],
+            "type": "LineString"
+         },
+         "id": "6afd8f4c6f9c11019c2d39ab758c138d"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:33:01Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "highway": "footway",
+            "id": "way/428077687"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897172, 43.944136],
+               [-78.897504, 43.944254],
+               [-78.897318, 43.944299]
+            ],
+            "type": "LineString"
+         },
+         "id": "7d4fbfbbab29ee59209752c6394db315"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.89611, 43.944538], [-78.896097, 43.944541]],
+            "type": "LineString"
+         },
+         "id": "825b5bfb22766d3323f7fd2984798b24"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "access": "private",
+            "lanes": "2",
+            "ref": "Avenue Of Champions",
+            "user": "manuelab_telenav",
+            "surface": "asphalt",
+            "highway": "service",
+            "uid": "4667606",
+            "changeset": "44890773",
+            "timestamp": "2017-01-04T10:42:50Z",
+            "version": "4",
+            "id": "way/271653854"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896893, 43.944156],
+               [-78.896518, 43.944237],
+               [-78.896494, 43.944242],
+               [-78.895685, 43.944425],
+               [-78.895458, 43.944476]
+            ],
+            "type": "LineString"
+         },
+         "id": "828cf3c29820d4e4396f4687b56d8531"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.895897, 43.944691], [-78.895919, 43.944684]],
+            "type": "LineString"
+         },
+         "id": "8f0cbb848c52086d6f2e42e8cd6eb8f4"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "yes",
+            "id": "node/-116501"
+         },
+         "geometry": {
+            "coordinates": [-78.896221, 43.944729],
+            "type": "Point"
+         },
+         "id": "8f63a1dee72cd71cfed0c09ff184b595"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896966, 43.944562],
+               [-78.896937, 43.944514],
+               [-78.896926, 43.944496],
+               [-78.896875, 43.944373],
+               [-78.896851, 43.944312],
+               [-78.896828, 43.944251],
+               [-78.896773, 43.944262]
+            ],
+            "type": "LineString"
+         },
+         "id": "943208aa3dad4a0c481d9f10c164a48f"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "highway": "footway",
+            "id": "way/-127726"
+         },
+         "geometry": {
+            "coordinates": [[-78.896753, 43.944397], [-78.896752, 43.944372]],
+            "type": "LineString"
+         },
+         "id": "95ad4e8e0d7142feccecab6c2677349b"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896574, 43.944441],
+               [-78.896617, 43.944455],
+               [-78.896622, 43.944483],
+               [-78.896649, 43.944559]
+            ],
+            "type": "LineString"
+         },
+         "id": "98ea48cb935570e5e9929eacf94dc495"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2018-07-30T21:43:40Z",
+            "version": "2",
+            "changeset": "61209293",
+            "user": "DannyMcD",
+            "uid": "5789626",
+            "entrance": "yes",
+            "id": "node/4272234831"
+         },
+         "geometry": {
+            "coordinates": [-78.895813, 43.944481],
+            "type": "Point"
+         },
+         "id": "9aedf186a75597ee72bf54e4a46a9ca9"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896333, 43.944529],
+               [-78.896325, 43.944547],
+               [-78.896336, 43.944627]
+            ],
+            "type": "LineString"
+         },
+         "id": "9f9f6d2e0f9075c723fbe70fa3aebf19"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1001",
+            "id": "UA1001"
+         },
+         "geometry": {
+            "coordinates": [-78.89667, 43.94457],
+            "type": "Point"
+         },
+         "id": "UA1001"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1030",
+            "id": "UA1030"
+         },
+         "geometry": {
+            "coordinates": [-78.896341, 43.944639],
+            "type": "Point"
+         },
+         "id": "UA1030"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1120",
+            "id": "UA1120"
+         },
+         "geometry": {
+            "coordinates": [-78.896903, 43.944377],
+            "type": "Point"
+         },
+         "id": "UA1120"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1140",
+            "id": "UA1140"
+         },
+         "geometry": {
+            "coordinates": [-78.896895, 43.944353],
+            "type": "Point"
+         },
+         "id": "UA1140"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1220",
+            "id": "UA1220"
+         },
+         "geometry": {
+            "coordinates": [-78.89674, 43.944416],
+            "type": "Point"
+         },
+         "id": "UA1220"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1240",
+            "id": "UA1240"
+         },
+         "geometry": {
+            "coordinates": [-78.896724, 43.944387],
+            "type": "Point"
+         },
+         "id": "UA1240"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1350",
+            "id": "UA1350"
+         },
+         "geometry": {
+            "coordinates": [-78.896333, 43.944529],
+            "type": "Point"
+         },
+         "id": "UA1350"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1350",
+            "id": "UA1350"
+         },
+         "geometry": {
+            "coordinates": [-78.896574, 43.944441],
+            "type": "Point"
+         },
+         "id": "UA1350-B"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1420",
+            "id": "UA1420"
+         },
+         "geometry": {
+            "coordinates": [-78.896133, 43.94459],
+            "type": "Point"
+         },
+         "id": "UA1420"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1440",
+            "id": "UA1440"
+         },
+         "geometry": {
+            "coordinates": [-78.89611, 43.944538],
+            "type": "Point"
+         },
+         "id": "UA1440"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1460",
+            "id": "UA1460"
+         },
+         "geometry": {
+            "coordinates": [-78.896078, 43.944492],
+            "type": "Point"
+         },
+         "id": "UA1460"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1520",
+            "id": "UA1520"
+         },
+         "geometry": {
+            "coordinates": [-78.895969, 43.94453],
+            "type": "Point"
+         },
+         "id": "UA1520"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1540",
+            "user": "UA1540"
+         },
+         "geometry": {
+            "coordinates": [-78.896055, 43.94451],
+            "type": "Point"
+         },
+         "id": "UA1540"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1620",
+            "id": "UA1620"
+         },
+         "geometry": {
+            "coordinates": [-78.895897, 43.944691],
+            "type": "Point"
+         },
+         "id": "UA1620"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1640",
+            "id": "UA1640"
+         },
+         "geometry": {
+            "coordinates": [-78.895855, 43.944588],
+            "type": "Point"
+         },
+         "id": "UA1640"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "indoor": "room",
+            "ref": "UA1660",
+            "id": "UA1660"
+         },
+         "geometry": {
+            "coordinates": [-78.895848, 43.944573],
+            "type": "Point"
+         },
+         "id": "UA1660"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:33:00Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "highway": "footway",
+            "id": "way/428077677"
+         },
+         "geometry": {
+            "coordinates": [[-78.897172, 43.944136], [-78.897252, 43.944315]],
+            "type": "LineString"
+         },
+         "id": "a05010ae4dbf0cdd9d12e443830c0d93"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:32:59Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "entrance": "yes",
+            "id": "node/4272234796"
+         },
+         "geometry": {
+            "coordinates": [-78.895669, 43.944385],
+            "type": "Point"
+         },
+         "id": "a24741f542f21d63e50e0bfaec08dc7d"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "addr:housenumber": "21",
+            "operator": "UOIT",
+            "ref": "Science Building UA",
+            "user": "AlexK96",
+            "addr:street": "Avenue of Champions",
+            "addr:country": "CA",
+            "uid": "5133434",
+            "changeset": "45249613",
+            "building": "yes",
+            "addr:city": "Oshawa",
+            "building:levels": "4",
+            "timestamp": "2017-01-17T18:20:43Z",
+            "version": "7",
+            "addr:province": "ON",
+            "id": "way/227401356"
+         },
+         "geometry": {
+            "coordinates": [
+               [
+                  [-78.897205, 43.944198],
+                  [-78.896853, 43.944273],
+                  [-78.895893, 43.944492],
+                  [-78.895774, 43.944517],
+                  [-78.895904, 43.944824],
+                  [-78.895954, 43.944817],
+                  [-78.896235, 43.944752],
+                  [-78.896609, 43.944669],
+                  [-78.897311, 43.944511],
+                  [-78.897284, 43.94444],
+                  [-78.897263, 43.944385],
+                  [-78.897423, 43.944348],
+                  [-78.897527, 43.944327],
+                  [-78.897497, 43.944277],
+                  [-78.897382, 43.944247],
+                  [-78.897231, 43.944282],
+                  [-78.897205, 43.944198]
+               ]
+            ],
+            "type": "Polygon"
+         },
+         "id": "a3e887c7751214c0cb674665e4a39d9c"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2018-07-30T21:43:40Z",
+            "version": "2",
+            "changeset": "61209293",
+            "user": "DannyMcD",
+            "uid": "5789626",
+            "entrance": "yes",
+            "id": "node/4272234800"
+         },
+         "geometry": {
+            "coordinates": [-78.897472, 43.944358],
+            "type": "Point"
+         },
+         "id": "a4ac6147968a465fd7b018b87f9a8a8f"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "foot": "permissive",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:01Z",
+            "version": "1",
+            "id": "way/428077680"
+         },
+         "geometry": {
+            "coordinates": [[-78.896483, 43.944218], [-78.896494, 43.944242]],
+            "type": "LineString"
+         },
+         "id": "a60af3ca6244f54dfa1779803e3ffffd"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:33:00Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "entrance": "yes",
+            "id": "node/4272234830"
+         },
+         "geometry": {
+            "coordinates": [-78.896773, 43.944262],
+            "type": "Point"
+         },
+         "id": "a614756991d158c97ad8fc2d19ca3336"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "highway": "footway",
+            "id": "way/-117894"
+         },
+         "geometry": {
+            "coordinates": [[-78.895754, 43.944475], [-78.895685, 43.944425]],
+            "type": "LineString"
+         },
+         "id": "ac4b894e4a2d2d5ac226c17f266181e6"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:00Z",
+            "version": "1",
+            "id": "way/428077672",
+            "bicycle": "yes"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897283, 43.944399],
+               [-78.897294, 43.944437],
+               [-78.897301, 43.944459],
+               [-78.897342, 43.944598]
+            ],
+            "type": "LineString"
+         },
+         "id": "ace80d2b745c90db0c4f2a1a632b9456"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2018-07-30T21:43:40Z",
+            "version": "2",
+            "changeset": "61209293",
+            "user": "DannyMcD",
+            "uid": "5789626",
+            "entrance": "yes",
+            "id": "node/4272233573"
+         },
+         "geometry": {
+            "coordinates": [-78.897204, 43.944429],
+            "type": "Point"
+         },
+         "id": "af01066440073c2cccecb64216d2ca80"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.895813, 43.944481],
+               [-78.895834, 43.944488],
+               [-78.895859, 43.944502],
+               [-78.895882, 43.944544],
+               [-78.895886, 43.944556],
+               [-78.895881, 43.944562],
+               [-78.895871, 43.944567],
+               [-78.895873, 43.944581],
+               [-78.895886, 43.944608],
+               [-78.895919, 43.944684],
+               [-78.895934, 43.944721],
+               [-78.895952, 43.944761],
+               [-78.895915, 43.94477],
+               [-78.895874, 43.944806]
+            ],
+            "type": "LineString"
+         },
+         "id": "af5c8d71bc19cd016f2b649c06ce5751"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40898837",
+            "timestamp": "2016-07-20T15:29:47Z",
+            "version": "1",
+            "id": "way/432147636",
+            "horse": "no",
+            "bicycle": "no"
+         },
+         "geometry": {
+            "coordinates": [[-78.897504, 43.944254], [-78.897544, 43.944244]],
+            "type": "LineString"
+         },
+         "id": "b145a88ab7abf97f8a87947f46f1c7eb"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896903, 43.944377], [-78.896875, 43.944373]],
+            "type": "LineString"
+         },
+         "id": "b2178f349d7a99d1fed678005e198adb"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.896055, 43.94451],
+               [-78.896081, 43.944507],
+               [-78.896088, 43.944519]
+            ],
+            "type": "LineString"
+         },
+         "id": "b730eaf061a2542fb8c1b5b426cb6bb8"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.89667, 43.94457], [-78.896649, 43.944559]],
+            "type": "LineString"
+         },
+         "id": "b83540679762ed746eedd1eb9960fdf2"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "internet_access": "wlan",
+            "cuisine": "coffee_shop",
+            "ref": "Tim Hortons",
+            "user": "AlexK96",
+            "internet_access:fee": "no",
+            "uid": "5133434",
+            "changeset": "45203390",
+            "timestamp": "2017-01-15T23:44:18Z",
+            "version": "1",
+            "amenity": "cafe",
+            "outdoor_seating": "no",
+            "id": "node/4610759331"
+         },
+         "geometry": {
+            "coordinates": [-78.89608, 43.944633],
+            "type": "Point"
+         },
+         "id": "bb82d549c5b513a019ec6f76f056b4c3"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "ref": "Campus Health Centre",
+            "user": "Mqken",
+            "uid": "8276253",
+            "changeset": "58987693",
+            "timestamp": "2018-05-15T14:58:18Z",
+            "entrance": "yes",
+            "version": "2",
+            "amenity": "doctors",
+            "id": "node/4272233588"
+         },
+         "geometry": {
+            "coordinates": [-78.896483, 43.944218],
+            "type": "Point"
+         },
+         "id": "bc46d13e4171943e33f6a76813086223"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896753, 43.944397], [-78.896875, 43.944373]],
+            "type": "LineString"
+         },
+         "id": "c14f57b83b7b1cac5319cf3bd83a7220"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:01Z",
+            "version": "1",
+            "id": "way/428077685",
+            "horse": "no",
+            "bicycle": "no"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.895668, 43.944251],
+               [-78.895681, 43.944282],
+               [-78.89563, 43.944292],
+               [-78.895669, 43.944385]
+            ],
+            "type": "LineString"
+         },
+         "id": "c5cfd2c7ce7d912a07812701498ce06a"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:01Z",
+            "version": "1",
+            "id": "way/428077688"
+         },
+         "geometry": {
+            "coordinates": [[-78.897363, 43.944382], [-78.897472, 43.944358]],
+            "type": "LineString"
+         },
+         "id": "c73df3657c703667983a0446caa4a2c1"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.89608, 43.944633], [-78.896093, 43.944685]],
+            "type": "LineString"
+         },
+         "id": "ccaea932339f64332628860027ea5b76"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2018-07-30T21:43:40Z",
+            "version": "2",
+            "changeset": "61209293",
+            "user": "DannyMcD",
+            "uid": "5789626",
+            "entrance": "yes",
+            "id": "node/4272234832"
+         },
+         "geometry": {
+            "coordinates": [-78.895874, 43.944806],
+            "type": "Point"
+         },
+         "id": "d00b95b4e1689e6a8cedffaa877be6b7"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "main",
+            "ref": "WASHROOM",
+            "toilets": "yes",
+            "id": "node/-127682"
+         },
+         "geometry": {
+            "coordinates": [-78.896732, 43.944295],
+            "type": "Point"
+         },
+         "id": "d1425cb80f62acaf11848a09dd56d686"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.895855, 43.944588], [-78.895873, 43.944581]],
+            "type": "LineString"
+         },
+         "id": "d1764127e20deb1e1005904b2eba6bf8"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897204, 43.944429],
+               [-78.897173, 43.944438],
+               [-78.897134, 43.944338],
+               [-78.897252, 43.944315],
+               [-78.897318, 43.944299],
+               [-78.897343, 43.944337]
+            ],
+            "type": "LineString"
+         },
+         "id": "d523d086ee04a7262a0730c4b37ff20f"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896851, 43.944312], [-78.896736, 43.94433]],
+            "type": "LineString"
+         },
+         "id": "db62d3e9fd744beb8d6eb580a7fffcea"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "entrance": "yes",
+            "id": "node/-116498"
+         },
+         "geometry": {
+            "coordinates": [-78.896899, 43.944575],
+            "type": "Point"
+         },
+         "id": "e2c9be2d1cee935e9b962e7f458bdcc9"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:01Z",
+            "version": "1",
+            "id": "way/428077689",
+            "horse": "no",
+            "bicycle": "no"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897504, 43.944254],
+               [-78.897529, 43.94435],
+               [-78.897472, 43.944358]
+            ],
+            "type": "LineString"
+         },
+         "id": "e7049fd987dc8d3ae1fe2ca30c4ef260"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "motor_vehicle": "no",
+            "access": "permissive",
+            "user": "jamesmyers",
+            "highway": "footway",
+            "uid": "3696841",
+            "changeset": "40376333",
+            "timestamp": "2016-06-29T20:33:03Z",
+            "version": "1",
+            "id": "way/428077717"
+         },
+         "geometry": {
+            "coordinates": [[-78.897342, 43.944598], [-78.897126, 43.944652]],
+            "type": "LineString"
+         },
+         "id": "ea5b41ca789b085d5f000b75fb278a17"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "timestamp": "2016-06-29T20:33:00Z",
+            "version": "1",
+            "changeset": "40376333",
+            "user": "jamesmyers",
+            "uid": "3696841",
+            "bicycle": "yes",
+            "highway": "footway",
+            "id": "way/428077675"
+         },
+         "geometry": {
+            "coordinates": [
+               [-78.897343, 43.944337],
+               [-78.897363, 43.944382],
+               [-78.897283, 43.944399]
+            ],
+            "type": "LineString"
+         },
+         "id": "ef642a34324d1ea7d72b0a0b4b16ceac"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896753, 43.944397], [-78.896724, 43.944387]],
+            "type": "LineString"
+         },
+         "id": "f278f45110feadb2918178ec0c88723c"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896341, 43.944639], [-78.896336, 43.944627]],
+            "type": "LineString"
+         },
+         "id": "f5572a3403931106e4d9d31994b65957"
+      },
+      {
+         "type": "Feature",
+         "properties": {
+            "class": "path",
+            "iso_3166_1": "CA",
+            "iso_3166_2": "CA-ON",
+            "len": "5810",
+            "oneway": "false",
+            "structure": "none",
+            "type": "footway"
+         },
+         "geometry": {
+            "coordinates": [[-78.896194, 43.944644], [-78.8962, 43.94466]],
+            "type": "LineString"
+         },
+         "id": "fc54f835a2c62bd5c34814a735e53786"
+      }
+   ],
+   "type": "FeatureCollection"
+}

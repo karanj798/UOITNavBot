@@ -1,0 +1,6 @@
+{
+	"name": "ua-path-finder",
+	"scripts": {
+		"start": "nodemon index.js"
+	}
+}
